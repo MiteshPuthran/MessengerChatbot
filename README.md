@@ -3,7 +3,7 @@
 ### - This is a personal project under progress.
 ### - Creating a chatbot using Whatsapp data on Tensorflow to be run on a facebook page. 
 
-#### The idea behind creating the chatbot is to build a self sustainable program that can be used to interact and take decisions on its own with the human interference. This application will try minimize the waiting time and emotional interference while dealing with certain situations. 
+#### The idea behind creating the chatbot is to build a self sustainable program that can be used to interact and take decisions on its own without the human interference. This application will try minimize the waiting time and emotional interference while dealing with certain situations. 
 
 ## The problem I am trying to solve:
 #### There are times when we need responses as soon as possible without any hassle. Suppose someone has met with a car accident where the person has to claim the insurance he has by notifying the company. There are times like today where you are not instantly connected with the respresntative as needed, usually there is a waiting time as the representative is busy with someone else.
